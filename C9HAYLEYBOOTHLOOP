@@ -13,6 +13,4 @@ ____ ____  _____    _        _  _____ _____ ____    ______   __
 -- A CLIENT THAT WILL ALWAYS BE FREE AND OPEN SOURCE!!
 
 -- Booth Text Looper | C9Hayley
-
-
-loadstring(game:HttpGet('https://github.com/C9Hayley/Rate-my-Avatar-Booth-Loop/blob/main/styleish'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/C9Hayley/Rate-my-Avatar-Booth-Loop/refs/heads/main/styleish'))()
